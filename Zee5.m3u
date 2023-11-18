@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="English",URI="https://z5ak-cmaflive.zee5.com/linear/hls/pb/event/ACMbQPITRvKQ46rSG8AUNw/stream/5295a622-191e-4eb8-b125-62c848b9ee60:SIN/variant/18216f8a1533f90baf465c565aec853c/bandwidth/000.m3u8?hdntl=exp=1700379535~acl=%2f*~id=d87a96b7-0ccc-40b6-97ea-e3c0d2d1c2b4~data=hdntl~hmac=8e8dd446ca23660991d75cabbd82237b977b2647614eb015877da726e69ad67a"
-#EXT-X-STREAM-INF:BANDWIDTH=1000000,AUDIO="audio"
-https://z5ak-cmaflive.zee5.com/linear/hls/pb/event/ACMbQPITRvKQ46rSG8AUNw/stream/5295a622-191e-4eb8-b125-62c848b9ee60:SIN/variant/f7172fa17b0ce96082e363eee9e181b2/bandwidth/2711322.m3u8?hdntl=exp=1700379535~acl=%2f*~id=d87a96b7-0ccc-40b6-97ea-e3c0d2d1c2b4~data=hdntl~hmac=8e8dd446ca23660991d75cabbd82237b977b2647614eb015877da726e69ad67a
