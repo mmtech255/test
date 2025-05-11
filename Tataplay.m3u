@@ -2,4 +2,4 @@
 #EXTINF:-1 ,Star Bharat HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://tp.drmlive-01.workers.dev?id=244
-http://localhost:8000/tataplay-main/manifest.mpd?id=244|X-Forwarded-For=59.178.74.184&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+http://59.178.74.184/tataplay-main/manifest.mpd?id=244
