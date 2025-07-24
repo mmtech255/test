@@ -1,8 +1,6 @@
-curl -s "https://raw.githubusercontent.com/mmtech255/test/refs/heads/main/Tataplay.php" | grep -v "^#EXTM3U" > playlist1.tmp
-curl -s "https://sflex07.fun/SFJSTARM3U/JTVPLUS1717.php" | grep -v "^#EXTM3U" > playlist2.tmp
+#EXTM3U
+#EXTINF:-1,Playlist 1
+https://raw.githubusercontent.com/mmtech255/test/refs/heads/main/Tataplay.php
 
-(echo "#EXTM3U"; cat playlist1.tmp playlist2.tmp) > combined.m3u
-
-rm playlist1.tmp playlist2.tmp
-
-echo "Combined playlist created as combined.m3u"
+#EXTINF:-1,Playlist 2
+https://sflex07.fun/SFJSTARM3U/JTVPLUS1717.php
