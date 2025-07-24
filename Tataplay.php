@@ -506,3 +506,116 @@ https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-id="ts40" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&tvHD_Transparent_ab3d9971-3120-41e2-928e-96d82018929e.png" group-title="Zee5",&tv HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/40
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=40|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts63" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTVHD._Transparent_003e2ae4-feb2-4bc8-92dc-9ca0d44bfb72.png" group-title="Zee5",Zee TV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/63
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=63|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts503" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeCinemaHD_Transparent_8a39d6c8-64f6-40d3-9174-073775b55e78.png" group-title="Zee5",Zee Cinema HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/503
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=503|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts267" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AndPicturesHD_Transparent_688537b9-d802-4aa3-9731-0fce6b1f1a1b.png" group-title="Zee5",&pictures HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/267
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=267|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts1183" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/&XplorHD_Transparent_b1576167-30b3-4e74-8a56-93f8560b1c47.png" group-title="Zee5",&Xplor HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/1183
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=1183|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts1497" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeNewsHD_Transparent_0a42d46e-c82a-415c-98f0-b419686e4c13.png" group-title="Zee5",Zee News HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/1497
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=1497|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts501" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeMarathiHD_Transparent_ccd79cb3-8acd-4efc-ba35-005652a1c888.png" group-title="Zee5",Zee Marathi HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/501
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=501|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts515" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTalkiesHD_Transparent_9160b006-8050-4115-96ea-be614d4a4d2c.png" group-title="Zee5",Zee Talkies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/515
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=515|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts522" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeBanglaHD_Transparent_409b6f78-d736-4f60-88ae-b084081d69d5.png" group-title="Zee5",Zee Bangla HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/522
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=522|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts635" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTeluguHD_Transparent_b3e6aa00-b98a-47e6-948f-afd257a055a5.png" group-title="zee5",Zee Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/635
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=635|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts636" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeCinemaluHD_Transparent_32acc83c-5279-43d5-92c5-1fb4e55fa87d.png" group-title="Zee5",Zee Cinemalu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/636
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=636|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts608" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeTamilHD_Transparent_a5bfaeec-a389-4264-93d9-902a446ef336.png" group-title="Zee5",Zee Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/608
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=608|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts1182" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeThiraiHD_Transparent_148bf888-7a23-42a7-b5b9-fcd69a285a2f.png" group-title="Zee5",Zee Thirai HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/1182
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=1182|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts675" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeKannadaHD_Transparent_f779fe88-7564-4916-a012-aae698990895.png" group-title="Zee5",Zee Kannada HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/675
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=675|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts1181" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeePiccharHD_Transparent_13461526-af98-4eec-b29c-5b6005c35f18.png" group-title="Zee5",Zee Picchar HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/1181
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=1181|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+
+#EXTINF:-1 tvg-id="ts694" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/ZeeKeralamHD_Transparent_2a60a8ee-9133-42f7-9e84-96fcf1dc01d2.png" group-title="Zee5",Zee Keralam HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://babel-group-ka-playlist.vercel.app/key/694
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=694|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
