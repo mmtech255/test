@@ -15,10 +15,10 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Download Playlist 1
-      run: curl -s -o playlist1.m3u "https://raw.githubusercontent.com/mmtech255/test/refs/heads/main/Tataplay.php"
+      run: curl -s -o playlist1.m3u "https://sflex07.fun/SFJSTARM3U/JTVPLUS1717.php"
 
     - name: Download Playlist 2
-      run: curl -s -o playlist2.m3u "https://raw.githubusercontent.com/mmtech255/test/refs/heads/main/Hotstar.php"
+      run: curl -s -o playlist2.m3u "https://demo.opengist.io/Arunjunan07/1744001c63f84b869443be0d22164bc6/raw/HEAD/MPD.m3u8"
 
     - name: Merge playlists
       run: |
