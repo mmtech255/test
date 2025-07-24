@@ -504,5 +504,5 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png" tvg-chno="21" group-title="Sony LIV ",Sony BBC earth HD
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony Yay
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
