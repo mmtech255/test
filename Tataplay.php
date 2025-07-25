@@ -620,3 +620,5 @@ https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=1181|Origin=https://watch.t
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://sflex07.fun/TP19BYStreamFlex/manifest.mpd?id=694|Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
 
+#EXTINF:-1 tvg-id="ts695" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk2ZmFhYjctYWZiYy00N2IxLWEzMWItZGRiMDY4ZDQwZWFlXkEyXkFqcGc@._V1_.jpg" group-title="Movies",Saiyaara 2025 HD
+https://pixeldrain.dev/api/file/sQrr9gWg?download
