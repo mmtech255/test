@@ -90,5 +90,5 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemalu/default/zeecinemalu-aud
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.mpd
 #EXTINF:-1, tvg-id="EPG N/A" group-title="Cloudfront" ,Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.mpd
-#EXTINF:-1, tvg-id="EPG N/A" group-title="Cloudfront" ,ZEE NEWS
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenews/default/zeenews-audio_208482_und=208000-video=2137600.mpd
+#EXTINF:-1, tvg-id="EPG N/A" group-title="Cloudfront" ,sony
+https://la.drmlive.net/tp/sliv-sab.m3u8
