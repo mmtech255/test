@@ -23,3 +23,5 @@ https://la.drmlive.net/tp/sliv-ten5hd.m3u8
 https://la.drmlive.net/tp/sliv-bbc.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony YAY
 https://la.drmlive.net/tp/sliv-yay.m3u8
+#EXTINF:-1,Colors HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Colors_HD_voot_MOB/output03/index.m3u8
