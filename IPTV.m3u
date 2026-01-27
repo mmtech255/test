@@ -62,3 +62,7 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_SonicNick/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="1226" group-title="Sports" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sports18_tray-1693930594270.jpg",SPORTS 18 HD
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m3u8
+
+
+#EXTINF:-1,Zee TV HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=167
