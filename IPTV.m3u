@@ -76,6 +76,12 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/AndPriveHD_BTS/output/index.mpd|drmScheme
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/76adfa0340ce84d626834d6187a6dc9e.png",Zee Cafe HD
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1319
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1104
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1110
+
 #EXTINF:-1,Star Sports 2 HD
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
 
