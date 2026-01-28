@@ -102,7 +102,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd|drmSch
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/star-35.mpd
-https://mix.drmlive.net/mix/star-35.mpd
+https://livetv-push.hotstar.com/dash/live/2002464/sshd1livetvwv/master.mpd
 
 #EXTINF:-1 tvg-id="1260000025" tvg-logo="https://i.ibb.co/Pj4DXxP/IMG-20220810-102427-705.jpg" group-title="Sports" ,Star Sports 1 Hindi HD
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
