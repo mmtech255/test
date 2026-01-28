@@ -67,6 +67,12 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/index.m
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/311add41a6176c96a3e546c28b8bc83d.png",Zee TV HD
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeTVHD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=167
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/bc7a90c43b7e6130ea656d9420a89553.png",And Flix HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndFlixHD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1322
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/9833981ca25ddb1dfd2c7174be23e52b.png",And Prive HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/AndPriveHD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1349
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/76adfa0340ce84d626834d6187a6dc9e.png",Zee Cafe HD
 https://jiotvpllive.cdn.jio.com/bpk-tv/ZeeCafeHD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1319
 
