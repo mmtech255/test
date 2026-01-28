@@ -3,8 +3,8 @@
 https://la.drmlive.net/tp/sliv-marathi.m3u8
 #EXTINF:-1 tvg-logo="https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Set HD
 https://la.drmlive.net/tp/sliv-sony.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV ",Sony pix HD 
-https://la.drmlive.net/tp/sliv-pix.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV ",Sony Pix HD 
+https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" tvg-chno="10" group-title="Sony LIV ",Sony SAB HD 
 https://la.drmlive.net/tp/sliv-sab.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Sony LIV ",Sony Max HD 
@@ -82,8 +82,11 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd|drmSc
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1110
 
-#EXTINF:-1,Star Sports 2 HD
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=9457eb90129456fa8ea95e10ba4ac51e:e620a970cea474c491ac78ae71a4d764
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/TLC_HD_World_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=ef9f76e7a4e25534a349c65c6b5e7122:db439de64495212588ce839126b2923f
+
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=021bd4635e8653bca6830adaca183b14:035ec746d6ee0d39cb7cb15963da8424
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1373
