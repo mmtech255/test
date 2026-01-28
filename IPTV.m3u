@@ -39,8 +39,8 @@ https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/inde
 #EXTINF:-1 tvg-id="429" group-title="Entertainment" tvg-language="Tamil" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg",Colors Tamil HD
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsTamilHD/JCHLS/index.m3u8
 
-#EXTINF:-1 tvg-id="1158" group-title="Entertainment" tvg-language="English" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Colors Infinity HD
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/index.m3u8
+#EXTINF:-1 tvg-id="1158" group-title="Entertainment" tvg-language="English" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7fcb8f31559758e13bc8538f828b5a2d.png",Colors Infinity HD
+https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1158
 
 #EXTINF:-1 tvg-id="1477" group-title="Movies" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",Colors Cineplex HD
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
