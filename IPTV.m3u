@@ -3,7 +3,7 @@
 https://la.drmlive.net/tp/sliv-marathi.m3u8
 #EXTINF:-1 tvg-logo="https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Set HD
 https://la.drmlive.net/tp/sliv-sony.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV ",Sony Pix HD 
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV ",SONY PIX HD 
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" tvg-chno="10" group-title="Sony LIV ",Sony SAB HD 
 https://la.drmlive.net/tp/sliv-sab.m3u8
