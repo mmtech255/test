@@ -112,5 +112,5 @@ https://star-sports-1.joker-verse.workers.dev/master.mpd
 #EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/star-25.mpd
-https://livetv-push.hotstar.com/dash/live/2002466/sshindiwv/master.mpd
+https://mix.drmlive.net/mix/star-25.mpd
 
