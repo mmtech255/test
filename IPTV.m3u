@@ -108,5 +108,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd|drmSch
 https://star-sports-1.joker-verse.workers.dev/master.mpd
 
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="Sports" ,Star Sports 1 Hindi HD
-http://klaratv.com/play/live.php?mac=00:1A:79:4C:7E:06&stream=155967&extension=ts&play_token=Z6UrdpwKJR
+#EXTVLCOPT:http-referrer=https://www.hotstar.com/
+#EXTVLCOPT:http-user-agent=Hotstar;in.startv.hotstar/24.10.07.2.10542 (Android/9)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mix.drmlive.net/mix/star-25.mpd
+https://mix.drmlive.net/mix/star-25.mpd
 
