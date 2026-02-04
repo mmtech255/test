@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" tvg-chno="5" group-title="Sony LIV ",Sony Marathi
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-marathi.m3u8
 #EXTINF:-1 tvg-logo="https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Set HD
 https://la.drmlive.net/tp/sliv-sony.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV ",SONY PIX HD 
