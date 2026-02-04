@@ -2,27 +2,27 @@
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Marathi-HD-New-Logo.png" tvg-chno="5" group-title="Sony LIV ",Sony Marathi
 https://la.drmlive.net/tp/sliv-sab.m3u8
 #EXTINF:-1 tvg-logo="https://indiantvinfo.com/media/2022/10/Sony-Entertainment-Television-HD-New-Logo.png" tvg-chno="6" group-title="Sony LIV ",Sony Set HD
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-sony.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="Sony LIV ",SONY PIX HD 
 https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_BTS/output/index.mpd|drmScheme=clearkey&drmLicense=00426b6344e351f491f324a94b62cd2f:ae3a59fe9918e7180ed65e2c842f7cc8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-SAB-HD-New-Logo.png" tvg-chno="10" group-title="Sony LIV ",Sony SAB HD 
 https://la.drmlive.net/tp/sliv-sab.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Sony LIV ",Sony Max HD 
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-maxhd.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sony LIV ",Sony sports ten 1 HD 
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-ten1hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="16" group-title="Sony LIV ",Sony sports ten 2 HD 
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-ten2hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="18" group-title="Sony LIV ",Sony sports ten 3 HD 
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-ten3hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="20" group-title="Sony LIV ",Sony sports ten 4 HD 
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-ten4hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" tvg-chno="12" group-title="Sony LIV ",Sony sports ten 5 HD
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-ten5hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-BBC-Earth-HD-New-Logo.png" tvg-chno="21" group-title="Sony LIV ",Sony BBC earth HD
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-bbc.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-YAY-New-Logo.png" tvg-chno="22" group-title="Sony LIV ",Sony YAY
-https://la.drmlive.net/tp/sliv-sab.m3u8
+https://la.drmlive.net/tp/sliv-yay.m3u8
 
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsHD/JCHLS/index.m3u8
