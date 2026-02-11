@@ -1,0 +1,41 @@
+name: Daily m3u8 Extractor
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Runs daily at 9AM UTC (2:30PM IST)
+  workflow_dispatch:       # Manual trigger button
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install yt-dlp
+      run: pip install yt-dlp
+    
+    - name: Get latest m3u8
+      run: |
+        URL="https://allinonereborn.xyz/sony/ptest.php?id=sab-hd"
+        M3U8=$(yt-dlp -g "$URL" | head -1)
+        echo "LATEST m3u8: $M3U8"
+        echo "m3u8=$M3U8" >> $GITHUB_ENV
+    
+    - name: Save to file
+      run: echo "${{ env.m3u8 }}" > latest_m3u8.txt
+    
+    - name: Commit result
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        file_pattern: latest_m3u8.txt
+        commit_message: "Update m3u8 $(date)"
+    
+    - name: Notify Discord/Email
+      run: |
+        curl -X POST ${{ secrets.DISCORD_WEBHOOK }} \
+        -H "Content-Type: application/json" \
+        -d "{"content": "🆕 **New m3u8**: ${{ env.m3u8 }}"}"
