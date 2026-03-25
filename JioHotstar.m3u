@@ -43,3 +43,6 @@ https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.m
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Star_4K_2024.svg/revision/latest/scale-to-width-down/250?cb=20251027192308",Star 4K
 https://mysouq1.com:443/live/76631957/10205687/333368.ts
+
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/65/42/301971_1748031087472_p_medium.jpg",Star Gold HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef
