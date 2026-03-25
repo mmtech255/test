@@ -25,6 +25,9 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/TLC_HD_World_BTS/output/index.mpd?__hdnea
 #EXTINF:-1 tvg-logo="https://tatalogo.pages.dev/923.png",Travelxp 4K HDR
 https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",Cartoon Network HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/CNHDEnglish_MOB/WDVLive/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=c9c415719be55a75b6533d2b4eed6269:23a7fab44583dfa0ff91c57324448b63
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Disney_Channel.png",Disney Channel
 https://jiotvmblive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=5181d3e6698055578cedc5bfc86b3e56:3dca7917d8cf9bb7095dc72b48bdcd3c
 
