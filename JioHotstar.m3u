@@ -10,6 +10,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/AndPriveHD_MOB/WDVLive/index.mpd?__hdnea_
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/76adfa0340ce84d626834d6187a6dc9e.png",Zee Cafe HD
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeCafeHD_MOB/WDVLive/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=937e3af54bd55ef4b862296e0319bb80:8868db6c5e57e4330e9304d18745ea5f
 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=1ff1fe6b2519562ca3a28602592cd547:d43132eca3cefc4e29ca8fe548a0638b
+
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
 https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1104
 
@@ -55,3 +58,15 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd?
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max HD
 https://jiotvmblive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=9d2bfb4c9aa45ac488bd92ec0e351217:c980b395f0be528c4233417ef6305274
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/AndPicturesHD_MOB/WDVLive/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=3698f70a682b503599cbc0fcae1f4df4:91a7ebf70d1fd76f59b9970c9525dad7
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",And Xplore HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/AndXploreHD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=67e52f4bdcfc525898be0446feb7f185:8cf5c24b168105bca24b358eb05f6df4
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeCinemaHD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=d0049ab307fd5a13b96e306b953d06dd:8057ff282237f0831dcdc4f8a9b2946f
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+https://jiotvmblive.cdn.jio.com/bpk-tv/ColorsCineplexHD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=bc74a4c7b66856f19ce77fffecd18590:5532bd5f660547d3b82992f1ef471d6a
