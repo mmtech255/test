@@ -11,7 +11,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/AndPriveHD_MOB/WDVLive/index.mpd?__hdnea_
 https://jiotvmblive.cdn.jio.com/bpk-tv/ZeeCafeHD_MOB/WDVLive/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=937e3af54bd55ef4b862296e0319bb80:8868db6c5e57e4330e9304d18745ea5f
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
-https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1104
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
 https://jiotvmblive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd?__hdnea__=st=1774443640~exp=1774530040~acl=/*~hmac=39dd8bf8013ec8b4ff578fa165280f5fa26c4506561ac9159b577075603c62d6|drmScheme=clearkey&drmLicense=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
