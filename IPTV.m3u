@@ -67,5 +67,23 @@ https://star-sports-1.joker-verse.workers.dev/master.mpd
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg" group-title="Sports" ,Star Sports 1 Hindi HD
 https://jt.drmlive.net/jiotvplus/1108.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1108
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTU1Zjk4MTYtMjc2YS00NjI5LWJkOWEtMjJlOGQ0ZTVjNmFjXkEyXkFqcGc@._V1_.jpg",Dhurandhar The Revenge 2026
-https://pixeldrain.dev/api/file/WrnCvV6Q?download
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",Star Gold HD
+https://jt.drmlive.net/jiotvplus/156.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=156
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",Star Gold 2 HD
+https://jt.drmlive.net/jiotvplus/3096.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=3096
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select HD
+https://jt.drmlive.net/jiotvplus/1113.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1113
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
+https://jt.drmlive.net/jiotvplus/185.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=185
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",And Xplore HD
+https://jt.drmlive.net/jiotvplus/1668.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1668
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
+https://jt.drmlive.net/jiotvplus/165.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=165
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
+https://jt.drmlive.net/jiotvplus/1477.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1477
