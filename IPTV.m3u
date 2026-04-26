@@ -87,3 +87,6 @@ https://jt.drmlive.net/jiotvplus/165.mpd|drmScheme=clearkey&drmLicense=https://j
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png",Colors Cineplex HD
 https://jt.drmlive.net/jiotvplus/1477.mpd|drmScheme=clearkey&drmLicense=https://jt.drmlive.net/jiotvplus/jtck?id=1477
+
+#EXTINF:-1,Bhoot Bangla
+https://pixeldrain.dev/api/file/yiSjTFYN?download
